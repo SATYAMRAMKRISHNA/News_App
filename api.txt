@@ -1,0 +1,2 @@
+a14cd12c603c4f8f93e5bfce829966d3
+https://newsapi.org/v2/everything?q=
